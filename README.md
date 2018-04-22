@@ -9,7 +9,7 @@
 ```bash
 wget https://raw.githubusercontent.com/miguelmota/fkill/master/fkill.sh?token=AAKRMDILnWgF-tBQypmRylm9p6iJwMj2ks5a5kS3wA%3D%3D -O fkill.sh
 chmod +x fkill.sh
-sudo mv fkill.sh /usr/local/bin/fkill
+mv fkill.sh /usr/local/bin/fkill
 ```
 
 ## Usage
