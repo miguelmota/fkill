@@ -30,10 +30,10 @@ mv fkill.sh /usr/local/bin/fkill
 $ fkill [process_name] [:process_port]
 ```
 
-## Examples
+## Example
 
 ```bash
-fkill node :3000 :8080
+$ fkill node :3000 :8080
 ```
 
 ## License
