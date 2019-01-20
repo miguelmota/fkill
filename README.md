@@ -10,9 +10,11 @@
 
 > A simple 3 line bash script to kill process by name or port
 
+[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/miguelmota/fkill/master/LICENSE)
+
 It's like the [fkill](https://www.npmjs.com/package/fkill-cli) NPM package, but not taking up your entire disk space with node_modules.
 
-[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/miguelmota/fkill/master/LICENSE)
+## Demo
 
 <img src="./assets/screenshot.gif" width="580" />
 
