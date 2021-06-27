@@ -12,7 +12,7 @@
 
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/miguelmota/fkill/master/LICENSE)
 
-It's like the [fkill](https://www.npmjs.com/package/fkill-cli) NPM package, but not taking up your entire disk space with node_modules.
+It's like the [fkill](https://www.npmjs.com/package/fkill-cli) NPM package, but not taking up your entire disk space with node_modules ;)
 
 ## Demo
 
@@ -29,7 +29,7 @@ mv fkill.sh /usr/local/bin/fkill
 ## Usage
 
 ```bash
-$ fkill [process_name] [:process_port]
+$ fkill [process_name(s)] [:process_port(s)]
 ```
 
 ## Example
